@@ -1,0 +1,7 @@
+.container {
+  composes: border from "./Globals.module.css";
+  composes: dark-background from "./Globals.module.css";
+  padding: 1rem;
+  text-align: center;
+  font-size: 12px;
+}

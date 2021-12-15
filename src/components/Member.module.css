@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  margin: 24px;
+}
+.container div {
+  flex: 1;
+}
+.member {
+  padding-left: 24px;
+}
+.heading {
+  margin-top: 0;
+}
+.imgContainer {
+  padding: 6px 0 12px;
+}
+.image {
+  object-fit: cover;
+  height: 100%;
+}

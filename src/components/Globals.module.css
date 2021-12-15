@@ -1,0 +1,17 @@
+.border {
+  border: var(--border-color) solid 1px;
+}
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.flex-space {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.dark-background {
+  background: #111;
+  color: #fff;
+}
