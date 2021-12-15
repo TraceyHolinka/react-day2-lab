@@ -4,7 +4,7 @@ import styles from './App.module.css'
 import Header from './components/Header'
 import Movies from './components/Movies'
 import Footer from './components/Footer'
-import Member from "./components/Member";
+import Member from './components/Member'
 
 function App() {
   const COMPANY = 'Top Three Flicks'
@@ -32,4 +32,4 @@ function App() {
   )
 }
 
-export default App;
+export default App
